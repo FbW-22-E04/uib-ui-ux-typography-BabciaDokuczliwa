@@ -12,5 +12,5 @@
 
 ### Font
 
-- Family: [Poppins](https://fonts.google.com/specimen/IBM+Plex+Serif), Georgia, Verdana
+- Family:url:("https://fonts.google.com/specimen/IBM+Plex+Serif"), Georgia, Verdana
 - Weights: 400, 500, 600
